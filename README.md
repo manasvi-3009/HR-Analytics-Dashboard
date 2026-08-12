@@ -8,3 +8,12 @@ End-to-End HR Analytics Dashboard using SQL, Power BI and Excel.
 - Dataset Documentation ✅
 - SQL Analysis ⏳
 - Power BI Dashboard ⏳
+
+## Current Progress
+
+- Business Requirement Document ✅
+- ER Diagram Documentation ✅
+- Data Dictionary ✅
+- Dataset Documentation ✅
+- SQL Analysis ⏳
+- Power BI Dashboard ⏳
