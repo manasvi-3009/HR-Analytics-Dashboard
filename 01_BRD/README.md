@@ -42,3 +42,7 @@ Currently, HR reports are created manually in Excel, making it difficult to iden
 - Department-wise Employees
 - Gender Distribution
 - Job Satisfaction
+
+## Scope
+
+The project focuses on analyzing employee data to identify workforce trends, attrition patterns, salary distribution, and department-wise performance.
