@@ -17,3 +17,10 @@ End-to-End HR Analytics Dashboard using SQL, Power BI and Excel.
 - Dataset Documentation ✅
 - SQL Analysis ⏳
 - Power BI Dashboard ⏳
+## Future Features
+
+- Employee Performance Dashboard
+- Salary Trend Analysis
+- Attrition Prediction
+- HR KPI Dashboard
+- AI-powered HR Insights
