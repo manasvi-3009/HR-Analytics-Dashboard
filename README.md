@@ -70,4 +70,5 @@ Enterprise-HR-Analytics-Dashboard
 ├── 08_Presentation
 ├── index.html
 └── README.md
-
+## Dashboard
+Interactive HR analytics dashboard for employee attrition analysis.
