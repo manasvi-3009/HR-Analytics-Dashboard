@@ -53,7 +53,7 @@ The objective is to help HR teams understand employee turnover patterns and iden
 - JavaScript
 - Chart.js
 - Git & GitHub
-- GitHub Pages
+- GitHub Pagess
 
 ## 📁 Project Structure
 
