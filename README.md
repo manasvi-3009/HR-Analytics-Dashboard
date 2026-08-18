@@ -1,104 +1,112 @@
-# Enterprise HR Analytics Dashboard
+# 📊 Enterprise HR Analytics Dashboard
 
-An interactive HR Analytics project focused on employee attrition and workforce performance analysis.
+**End-to-End HR Analytics solution built using SQL, Power BI, and Excel** — analyzing employee attrition and workforce performance to help HR teams make data-driven retention decisions.
 
-## 🔗 Live Dashboard
+[![Live Dashboard](https://img.shields.io/badge/🔗_Live_Dashboard-View_Now-2ea44f?style=for-the-badge)](https://manasvi-3009.github.io/HR-Analytics-Dashboard/)
 
-[View Live HR Analytics Dashboard](https://manasvi-3009.github.io/HR-Analytics-Dashboard/)
+---
 
 ## 📌 Project Overview
 
-This project analyzes employee data to identify patterns and factors associated with employee attrition.
+This project analyzes employee data to uncover the patterns and factors driving **employee attrition**, giving HR and People teams a clear, interactive view of workforce health.
 
-The dashboard provides insights into:
+The dashboard surfaces insights across:
 
-- Employee attrition
-- Department-wise attrition
-- Job role-wise attrition
-- Age-wise attrition
-- Gender-wise attrition
+- Overall & department-wise attrition
+- Job role–wise attrition
+- Age-wise and gender-wise attrition trends
 - Overtime impact on attrition
 - Education field analysis
-- Job satisfaction
-- Employee income and tenure
+- Job satisfaction levels
+- Employee income and tenure patterns
+
+---
 
 ## 🎯 Business Objective
 
-The objective is to help HR teams understand employee turnover patterns and identify areas where employee retention can be improved.
+To help HR teams understand **why employees leave**, spot high-risk segments early, and identify actionable levers to improve retention — turning raw HR data into decisions.
+
+---
 
 ## 📊 Key KPIs
 
-- Total Employees
-- Attrition Count
-- Attrition Rate
-- Average Monthly Income
-- Average Years at Company
+| KPI | Description |
+|---|---|
+| 👥 Total Employees | Current workforce headcount |
+| 📉 Attrition Count | Number of employees who left |
+| 📊 Attrition Rate | % of workforce lost to attrition |
+| 💰 Avg. Monthly Income | Average employee compensation |
+| ⏳ Avg. Years at Company | Average employee tenure |
+
+---
 
 ## 📈 Dashboard Features
 
-- Interactive department filter
-- Gender filter
-- Job role filter
-- Overtime filter
-- Dynamic KPI cards
-- Interactive charts
-- Attrition analysis across multiple employee dimensions
+- 🔍 Interactive filters — Department, Gender, Job Role, Overtime
+- ⚡ Dynamic, real-time KPI cards
+- 📊 Interactive, drill-down charts
+- 🧩 Multi-dimensional attrition analysis (age, gender, role, department, overtime)
+
+---
 
 ## 🛠️ Tech Stack
 
-- SQL
-- MySQL
-- Excel
-- HTML
-- JavaScript
-- Chart.js
-- Git & GitHub
-- GitHub Pages
+`SQL` · `MySQL` · `Excel` · `Power BI` · `HTML` · `JavaScript` · `Chart.js` · `Git & GitHub` · `GitHub Pages`
+
+---
 
 ## 📁 Project Structure
 
-```text
+```
 Enterprise-HR-Analytics-Dashboard
 │
-├── 01_BRD
-├── 02_ER_Diagram
-├── 03_Data_Dictionary
-├── 04_Dataset
-├── 05_SQL
-├── 06_PowerBI
-├── 07_Documentation
-├── 08_Presentation
-├── index.html
+├── 01_BRD               → Business Requirement Document
+├── 02_ER_Diagram         → Entity-Relationship Diagram
+├── 03_Data_Dictionary    → Field-level data definitions
+├── 04_Dataset            → Raw / cleaned HR dataset
+├── 05_SQL                → SQL queries used for analysis
+├── 06_PowerBI            → Power BI dashboard file
+├── 07_Documentation      → Project documentation
+├── 08_Presentation       → Final presentation deck
+├── 09_Images             → Dashboard screenshots & assets
+├── index.html            → Interactive web dashboard
 └── README.md
-
 ```
+
+---
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard-preview.png)
+![HR Analytics Dashboard](https://github.com/manasvi-3009/HR-Analytics-Dashboard/raw/main/dashboard-preview.png)
+
+---
 
 ## 🔎 Key Insights
 
-- Analyze employee attrition across departments and job roles
-- Compare attrition patterns by age and gender
-- Analyze the impact of overtime on employee attrition
-- Evaluate job satisfaction and workforce retention patterns
-- Monitor employee income and tenure trends
+- Identified departments and job roles with the **highest attrition rates**
+- Found a strong correlation between **overtime and employee attrition**
+- Compared attrition patterns across **age groups and gender**
+- Evaluated **job satisfaction** as a driver of workforce retention
+- Tracked **income and tenure trends** to flag retention risk zones
+
+---
 
 ## 🚀 Future Enhancements
 
-- Employee attrition prediction using Machine Learning
-- Employee risk scoring
-- Employee segmentation
-- Automated HR alerts
-- Cloud deployment
-- Advanced predictive analytics
+- 🤖 ML-based employee attrition prediction
+- ⚠️ Employee risk scoring model
+- 🧠 Employee segmentation using clustering
+- 🔔 Automated HR alerts for at-risk employees
+- ☁️ Cloud deployment
+- 📈 Advanced predictive analytics
+
+---
 
 ## 👩‍💻 Author
 
 **Manasvi Vats**
+B.Tech Artificial Intelligence | Aspiring Data Analyst
 
-B.Tech Artificial Intelligence  
-Aspiring Data Analyst
+📫 Let's connect — open to Data Analyst / BI Analyst opportunities!
 
-**Last updated:** August 2026
+*Last updated: August 2026*
