@@ -53,7 +53,7 @@ The objective is to help HR teams understand employee turnover patterns and iden
 - JavaScript
 - Chart.js
 - Git & GitHub
-- GitHub Pagess
+- GitHub Pages
 
 ## 📁 Project Structure
 
@@ -70,6 +70,35 @@ Enterprise-HR-Analytics-Dashboard
 ├── 08_Presentation
 ├── index.html
 └── README.md
-## Dashboard
-Interactive HR analytics dashboard for employee attrition analysis.
-Last updated: August 2026
+
+```
+
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](dashboard-preview.png)
+
+## 🔎 Key Insights
+
+- Analyze employee attrition across departments and job roles
+- Compare attrition patterns by age and gender
+- Analyze the impact of overtime on employee attrition
+- Evaluate job satisfaction and workforce retention patterns
+- Monitor employee income and tenure trends
+
+## 🚀 Future Enhancements
+
+- Employee attrition prediction using Machine Learning
+- Employee risk scoring
+- Employee segmentation
+- Automated HR alerts
+- Cloud deployment
+- Advanced predictive analytics
+
+## 👩‍💻 Author
+
+**Manasvi Vats**
+
+B.Tech Artificial Intelligence  
+Aspiring Data Analyst
+
+**Last updated:** August 2026
