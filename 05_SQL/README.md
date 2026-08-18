@@ -1,14 +1,29 @@
-# Business Requirement Document
+# SQL Analysis
 
-# SQL Module
+This module contains SQL queries used for HR employee attrition analysis.
 
-This folder contains SQL scripts used for HR Analytics.
+## Analysis Performed
 
-## Planned SQL Files
+- Total employee count
+- Attrition count
+- Overall attrition rate
+- Department-wise attrition
+- Gender-wise attrition
+- Job role-wise attrition
+- Overtime impact on attrition
+- Average monthly income by attrition status
+- Average years at company by attrition status
+- Job satisfaction vs attrition
 
-- Database Creation
-- Table Creation
-- Constraints
-- SQL Queries
-- Views
-- Stored Procedures
+## SQL File
+
+- `hr_analysis.sql` — HR attrition analysis queries
+
+## Key Business Questions
+
+1. How many employees have left the organization?
+2. Which departments have the highest attrition?
+3. Which job roles show higher employee turnover?
+4. Does overtime appear to be associated with attrition?
+5. How does income differ between employees who stayed and those who left?
+6. Does job satisfaction relate to employee attrition?
