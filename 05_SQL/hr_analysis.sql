@@ -91,3 +91,52 @@ SELECT
 FROM employees
 GROUP BY JobRole
 ORDER BY avg_monthly_income DESC;
+
+-- 1. Total Employees
+SELECT COUNT(*) AS total_employees
+FROM employees;
+
+-- 2. Total Attrition
+SELECT COUNT(*) AS attrition_count
+FROM employees
+WHERE Attrition = 'Yes';
+
+-- 3. Attrition Rate
+SELECT 
+    ROUND(
+        SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*),
+        2
+    ) AS attrition_rate
+FROM employees;
+
+-- 4. Department-wise Attrition
+SELECT 
+    Department,
+    COUNT(*) AS employees,
+    SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS attrition_count
+FROM employees
+GROUP BY Department
+ORDER BY attrition_count DESC;
+
+-- 5. Job Role-wise Attrition
+SELECT 
+    JobRole,
+    SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS attrition_count
+FROM employees
+GROUP BY JobRole
+ORDER BY attrition_count DESC;
+
+-- 6. Overtime vs Attrition
+SELECT 
+    OverTime,
+    COUNT(*) AS employees,
+    SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS attrition_count
+FROM employees
+GROUP BY OverTime;
+
+-- 7. Gender-wise Attrition
+SELECT 
+    Gender,
+    SUM(CASE WHEN Attrition = 'Yes' THEN 1 ELSE 0 END) AS attrition_count
+FROM employees
+GROUP BY Gender;
