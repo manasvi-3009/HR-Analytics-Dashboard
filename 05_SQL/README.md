@@ -27,3 +27,10 @@ This module contains SQL queries used for HR employee attrition analysis.
 4. Does overtime appear to be associated with attrition?
 5. How does income differ between employees who stayed and those who left?
 6. Does job satisfaction relate to employee attrition?
+
+
+## Database
+
+Database: MySQL  
+Table: employees  
+Records analyzed: 1,470
