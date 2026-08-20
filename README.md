@@ -109,4 +109,4 @@ B.Tech Artificial Intelligence | Aspiring Data Analyst
 
 📫 Let's connect — open to Data Analyst / BI Analyst opportunities!
 
-*Last updated: August 2026*
+Last updated: 20 August 2026
