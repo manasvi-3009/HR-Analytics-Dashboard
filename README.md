@@ -65,7 +65,6 @@ Enterprise-HR-Analytics-Dashboard
 ├── 03_Data_Dictionary    → Column-level definitions
 ├── 04_Dataset            → Employee dataset (1,470 records)
 ├── 05_SQL                → Analysis queries
-├── 06_PowerBI            → Supplementary Power BI file (if applicable)
 ├── 07_Documentation      → Supporting write-ups
 ├── 08_Presentation       → Project walkthrough deck
 ├── 09_Images             → Dashboard screenshots (used below)
@@ -100,7 +99,7 @@ Not yet implemented — listed here for transparency:
 ## 👩‍💻 Author
 
 **Manasvi Vats**
-B.Tech, Artificial Intelligence — Aspiring Data Analyst
+B.Tech, Artificial Intelligence — Data Analyst
 
 - LinkedIn: [manasvi-vats-3a2421315](https://www.linkedin.com/in/manasvi-vats-3a2421315)
 - GitHub: [@manasvi-3009](https://github.com/manasvi-3009)
