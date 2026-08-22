@@ -100,7 +100,7 @@ Not yet implemented — listed here for transparency:
 ## 👩‍💻 Author
 
 **Manasvi Vats**
-B.Tech, Artificial Intelligence — Aspiring Data Analyst
+B.Tech, Artificial Intelligence — Data Analyst
 
 - LinkedIn: [manasvi-vats-3a2421315](https://www.linkedin.com/in/manasvi-vats-3a2421315)
 - GitHub: [@manasvi-3009](https://github.com/manasvi-3009)
