@@ -7,4 +7,4 @@ Project documentation includes:
 - Business Insights
 - SQL Analysis
 - Dashboard Explanation
-- Future Scope
+- Future Scopes
