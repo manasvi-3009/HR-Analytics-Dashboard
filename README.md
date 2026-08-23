@@ -20,7 +20,7 @@ An interactive HR Analytics dashboard analyzing employee attrition and workforce
 
 ## 📌 Project Overview
 
-Employee attrition is a costly, recurring problem for HR teams — replacing an employee is expensive, and losing experienced staff hurts team performance. This project analyzes an employee dataset to surface **where and why attrition is happening**, using an interactive dashboard instead of static reports.
+Employee attrition is a costly, recurring problem for HR teamss — replacing an employee is expensive, and losing experienced staff hurts team performance. This project analyzes an employee dataset to surface **where and why attrition is happening**, using an interactive dashboard instead of static reports.
 
 ## 🎯 Business Objective
 
