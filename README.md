@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💼 Enterprise HR Analytics Dashboard</h1>
+<h1 align="center">👩‍💼 Enterprise HR Analytic Dashboard</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
