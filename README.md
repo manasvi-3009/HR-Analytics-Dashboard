@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💼 Enterprise HR Analytic Dashboard</h1>
+<h1 align="center">👩‍💼 Enterprise HR Analytics Dashboard</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -25,7 +25,7 @@ Employee attrition is a costly, recurring problem for HR teamss — replacing an
 ## 🎯 Business Objective
 
 Help HR teams answer:
-- Which departments and job roles have the highest attrition?
+- Which departments and job roles have the highest attrition? 
 - Does overtime meaningfully affect attrition?
 - How do age, gender, and job satisfaction relate to attrition?
 - How does income and tenure compare between employees who stay and those who leave?
@@ -36,7 +36,7 @@ Help HR teams answer:
 - Attrition Count
 - Attrition Rate
 - Average Monthly Income
-- Average Years at Company
+- Average Years at Companyy
 
 ## 📈 Dashboard Features
 
