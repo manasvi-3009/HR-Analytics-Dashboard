@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<p align="center">
+<p align="center">_
 An interactive HR Analytics dashboard analyzing employee attrition and workforce performance across 1,470 employee records — built to demonstrate SQL, data analysis, and front-end dashboard development for a Data Analyst / BI Analyst portfolio.
 </p>
 
