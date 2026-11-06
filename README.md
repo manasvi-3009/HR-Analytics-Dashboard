@@ -16,7 +16,7 @@ An interactive HR Analytics dashboard analyzing employee attrition and workforce
   <a href="https://manasvi-3009.github.io/HR-Analytics-Dashboard/"><b>🔗 View Live Dashboard</b></a>
 </p>
 
----
+-----
 
 ## 📌 Project Overview
 
